@@ -57,6 +57,22 @@ body {
     margin: 5rem;
   }
 
+  .graficos-container__texto {
+    font-size: 1.3rem;
+    text-align: center;
+    padding: 2rem;
+    border: var(--secondary-color) solid 2px;
+   }
+   
+   .graficos-container {
+       margin: 5rem;
+   }
+   
+   span {
+       font-weight: bold;
+       color: var(--secondary-color);
+      }
+
   footer {
     display: flex;
     align-items: center;
@@ -68,4 +84,3 @@ body {
     margin-top: 2rem;
   }
 
-  
